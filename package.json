@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/echessa/weebot/issues"
   },
-  "homepage": "https://github.com/echessa/weebot#readme"
+  "homepage": "https://github.com/echessa/weebot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "request": "^2.81.0"
+  }
 }
